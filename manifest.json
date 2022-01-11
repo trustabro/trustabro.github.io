@@ -1,0 +1,8 @@
+{
+  "name": "Trust a Bro",
+  "short_name": "TrustABro",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color" : "#fff" ,
+  "description": "Trust a Bro - Moving Company"
+}
